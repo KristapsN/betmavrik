@@ -1,0 +1,27 @@
+.exchange_rate_wrapper {
+    /* background-image: linear-gradient(to right top, #010409, #002242, #003a7f, #0050bf, #0063ff); */
+    background-color: rgb(30 30 30);
+    border-radius: 20px;
+    box-shadow: 15px 8px 15px -7px rgba(0,0,0,0.07);
+    margin: 0.5rem;
+    padding: 1rem 1.5rem;
+    border: 1px solid rgb(255 235 0)
+}
+.header_wrapper{
+    display: flex;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.currency {
+    display: block;
+    color: #6c7076;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+}
+.rate {
+    display: block;
+    color: #8fb3eb;
+    font-size: 1rem;
+    /* padding-left: 1rem; */
+    /* padding-bottom: 1rem; */
+}
